@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "softtimer_register.h": "c",
+        "softtimer.h": "c"
+    }
+}
